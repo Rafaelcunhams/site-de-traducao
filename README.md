@@ -7,7 +7,7 @@ O projeto consiste em um **tradutor de texto**, permitindo ao usuário inserir u
 ---
 
 ## 🖼️ Preview do Projeto
-<img src=''<img width="1915" height="907" alt="Captura de tela 2026-01-18 225249" src="https://github.com/user-attachments/assets/4bd59933-79ad-48b0-ae93-0f3f4f3ce19f" />
+<img width="1915" height="907" alt="Captura de tela 2026-01-18 225249" src="https://github.com/user-attachments/assets/4bd59933-79ad-48b0-ae93-0f3f4f3ce19f" />
 
 ---
 
@@ -45,5 +45,6 @@ Sou **Desenvolvedor Front-End Júnior**, estudante do Ensino Médio, focado em d
 
 ## 📌 Observação
 Este projeto faz parte do meu portfólio pessoal e representa mais uma etapa do meu aprendizado em desenvolvimento front-end. O projeto poderá receber melhorias conforme avanço nos estudos.
+
 
 
